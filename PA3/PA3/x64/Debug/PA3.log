@@ -1,4 +1,0 @@
-﻿  main.c
-C:\Users\Colet\WSU\CS_121\PA3_ADDAH\PA3_ADDAH\main.c(66,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\Colet\WSU\CS_121\PA3_ADDAH\PA3_ADDAH\main.c(67,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-  PA3.vcxproj -> C:\Users\Colet\OneDrive\Documents\WSU\CS_121\Git\PA3\x64\Debug\PA3.exe
