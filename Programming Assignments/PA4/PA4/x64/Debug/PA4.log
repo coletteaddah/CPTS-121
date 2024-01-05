@@ -1,5 +1,0 @@
-﻿  functions.c
-  main.c
-  Generating Code...
-C:\Users\Colet\WSU\CS_121\PA4_ADDAH\PA4_ADDAH\main.c(14,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
-  PA4.vcxproj -> C:\Users\Colet\OneDrive\Documents\WSU\CS_121\Git\PA4\x64\Debug\PA4.exe
