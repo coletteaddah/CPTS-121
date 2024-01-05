@@ -1,0 +1,6 @@
+﻿  functions.c
+C:\Users\Colet\WSU\CS_121\PA7_FIXED_ADDAH\PA7_FIXED_ADDAH\functions.c(51,16): warning C4101: 'temp': unreferenced local variable
+C:\Users\Colet\WSU\CS_121\PA7_FIXED_ADDAH\PA7_FIXED_ADDAH\functions.c(97,1): warning C4029: declared formal parameter list different from definition
+C:\Users\Colet\WSU\CS_121\PA7_FIXED_ADDAH\PA7_FIXED_ADDAH\functions.c(345): warning C4715: 'checkWin': not all control paths return a value
+C:\Users\Colet\WSU\CS_121\PA7_FIXED_ADDAH\PA7_FIXED_ADDAH\functions.c(361): warning C4716: 'returnBet': must return a value
+  PA7.vcxproj -> C:\Users\Colet\OneDrive\Documents\WSU\CS_121\Git\PA7\x64\Debug\PA7.exe
